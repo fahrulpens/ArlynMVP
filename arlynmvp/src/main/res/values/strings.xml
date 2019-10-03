@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArlynMVP</string>
+    <string name="validation_email_must_be_valid">Email harus valid!</string>
+    <string name="validation_email_should_not_empty">Email tidak boleh kosong!</string>
+    <string name="validation_name_should_not_empty">Name tidak boleh kosong!</string>
+    <string name="validation_password_should_not_empty">Password tidak boleh kosong!</string>
 </resources>
