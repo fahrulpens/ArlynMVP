@@ -31,7 +31,7 @@
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:paddingLeft="16dp"
-                    android:src="@mipmap/ic_logo_1_round"
+                    android:src="@mipmap/ic_logo_round"
                     android:visibility="gone" />
 
                 <TextView
